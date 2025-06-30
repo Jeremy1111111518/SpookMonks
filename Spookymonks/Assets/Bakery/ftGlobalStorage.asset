@@ -400,7 +400,22 @@ MonoBehaviour:
   assetList:
   - Assets/Bakery/examples/content/sponza/bush.FBX
   - Assets/Bakery/examples/content/floor_lamp.FBX
-  uvOverlapAssetList: 00000000ffffffff
+  - Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Models/Pinch_Pointer_LOD0.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/DemoSceneAssets/Models/Primitive_Torus.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/DemoSceneAssets/Models/Primitive_Pyramid.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/DemoSceneAssets/Models/Primitive_Cylinder.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/DemoSceneAssets/Models/Primitive_Tapered_Cylinder.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Models/UniversalController.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/DemoSceneAssets/Models/Primitive_Blaster_Long.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/DemoSceneAssets/Models/Primitive_Torus_Cut.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Models/BlinkVisual.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/TunnelingVignette/TunnelingVignetteHemisphere.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/DemoSceneAssets/Models/Primitive_Blaster.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/DemoSceneAssets/Models/PushButton.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Models/Primitive_Wedge.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Models/Reticle_Torus.fbx
+  - Packages/com.unity.render-pipelines.core/Editor/Resources/DebugProbe.fbx
+  uvOverlapAssetList: 00000000ffffffff000000000000000000000000000000000101000001010000010100000000000000000000000000000101000000000000000000000000000000000000
   xatlasWarningShown: 0
   foundCompatibleSetup: 0
   gpuName: 
